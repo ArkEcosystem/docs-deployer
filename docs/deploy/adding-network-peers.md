@@ -28,7 +28,7 @@ bash <(curl -s https://raw.githubusercontent.com/GITHUB_USERNAME/core/chore/brid
 bridgechain relay:start
 ```
 
-8. To obeserve logs type:
+8. To observe logs type:
 
 ```sh
 bridgechain relay:log
