@@ -1,0 +1,38 @@
+{
+  "docs": {
+    "Prepare": [
+      "prepare/getting-started",
+      "prepare/designing-blockchain-parameters",
+      "prepare/network-requirements",
+      "prepare/vps-dedicated-local",
+      "prepare/creating-hardware-obtaining-ip-addresses",
+      "prepare/connect-to-servers",
+      "prepare/preparing-your-server",
+      "prepare/preparing-github"
+    ],
+    "Customize": [
+      "customize/getting-started",
+      "customize/customization-levels",
+      "customize/name-your-bridgechain",
+      "customize/configure-bridgechain-parameters",
+      "customize/static-fees",
+      "customize/dynamic-fees",
+      "customize/configure-bridgechain-installation",
+      "customize/explorer",
+      "customize/additional-options",
+      "customize/mainnet-peers",
+      "customize/devnet-peers"
+    ],
+    "Deploy": [
+      "deploy/getting-started",
+      "deploy/transferring-and-executing-script",
+      "deploy/running-and-managing-core-processes",
+      "deploy/commiting-core-changes-to-github-repo",
+      "deploy/adding-network-peers",
+      "deploy/adding-bridgechain-to-ark-desktop-wallet",
+      "deploy/importing-genesis-addresses-and-adding-forgers",
+      "deploy/security-notice",
+      "deploy/whats-next"
+    ]
+  }
+}
