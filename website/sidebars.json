@@ -33,6 +33,7 @@
       "deploy/importing-genesis-addresses-and-adding-forgers",
       "deploy/security-notice",
       "deploy/whats-next"
-    ]
+    ],
+    "How-To Guides": ["how-to/setup-guide"]
   }
 }
