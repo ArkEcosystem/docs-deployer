@@ -31,6 +31,7 @@
       "deploy/adding-network-peers",
       "deploy/adding-bridgechain-to-ark-desktop-wallet",
       "deploy/importing-genesis-addresses-and-adding-forgers",
+      "deploy/updating-your-bridgechain",
       "deploy/security-notice",
       "deploy/whats-next"
     ]
