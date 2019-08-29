@@ -3,7 +3,7 @@ id: updating-your-bridgechain
 title: Updating Your Bridgechain
 ---
 
-Now that your genesis node is running, you may have made changes to some Core configuration files on your server. If so, it is advisable to push those changes to your GitHub repository before building your network. If you haven't made any changes, disregard this step.
+Now that your bridgechain is deployed, you may want to update it to the most recent release of Core. Deployer makes the process of updating your bridgechain as easy as deploying it. Follow the steps bellow:
 
 ## Notes
 
