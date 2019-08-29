@@ -28,18 +28,24 @@ To update your bridgechain, perform the following:
 cd ~/ark-deployer/
 ```
 
-2. The script will perform the necessary changes to update your bridgechain. To start the update process, type:
+2. Ensure that your Deployer script is up to date:
+
+```sh
+git pull
+```
+
+3. The script will perform the necessary changes to update your bridgechain. To start the update process, type:
 
 ```sh
 bash bridgechain.sh update-core
 ```
 
-3. Once the update has been completed, we then need to push it to your bridgechain's repository. When prompted, provide your GitHub username or email address and password. A new branch called `update/CORE_VERSION` will be created in your repository, where `CORE_VERSION` will be the version that your bridgechain was updated to.
+4. Once the update has been completed, we then need to push it to your bridgechain's repository. When prompted, provide your GitHub username or email address and password. A new branch called `update/CORE_VERSION` will be created in your repository, where `CORE_VERSION` will be the version that your bridgechain was updated to.
 
 
 >Your server's `plugins.js` configuration file will be updated. If you have modified it before, or registered custom plugins, you will have to add your changes again. You can find a backup of your previous `plugins.js` file in `~/.config/BRIDGECHAIN_NAME-core/NETWORK/`
 
-4. At this point, you can [start the Core processes](deploy/running-and-managing-core-processes.md) again. Check the logs to ensure that bridgechain was updated successfully.
+5. At this point, you can [start the Core processes](deploy/running-and-managing-core-processes.md) again. Check the logs to ensure that bridgechain was updated successfully.
 
 ## Updating Peers
 
