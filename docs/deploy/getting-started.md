@@ -16,5 +16,6 @@ Now that the pre-requirements and bridgechain configuration has been handled, it
 - Adding Bridgechain to ARK Desktop Wallet
 - Importing Genesis Address
 - Adding Live Forging Delegates
+- Updating Your Bridgechain
 - Security Note
 - What's Next
