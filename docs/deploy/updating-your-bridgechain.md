@@ -20,6 +20,15 @@ Deployer is equipped with a script to update your bridgechain to the latest Core
 * Compile Core
 * Push the updated branch to your GitHub repository
 
+***
+
+Before updating, it's important to take a snapshot of your database. This is a backup of your blockchain that you can use to roll back later, if desired. To take a snapshot, run:
+
+```sh
+bridgechain snapshot:dump
+```
+Replace `bridgechain` with the CLI alias that is used by your bridgechain.
+
 To update your bridgechain, perform the following:
 
 1. Change directories using:
