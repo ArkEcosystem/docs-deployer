@@ -50,9 +50,8 @@ const siteConfig = {
     "https://use.typekit.net/hqe2ccc.css"
   ],
   algolia: {
-    appId: "XOX1ITXVP4",
-    apiKey: 'a354f8457f7cd154f4908d39314e7fbf',
-    indexName: 'deployer'
+    apiKey: 'eb40f42a4745a51552b9b12d0869110e',
+    indexName: 'ark_deployer_hub'
   },
   onPageNav: "separate",
   docsSideNavCollapsible: true,
