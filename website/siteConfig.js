@@ -29,12 +29,13 @@ const siteConfig = {
       search: true
     }
   ],
-  headerIcon: "img/logo.svg",
-  favicon: "img/ark-logo.png",
+  headerIcon: "img/logo.png",
+  favicon: "img/favicon.ico",
   colors: {
     primaryColor: "#c9292c",
     secondaryColor: "#c9292c"
   },
+  copyright: `Copyright © ${new Date().getFullYear()} ARK Ecosystem`,
   highlight: {
     theme: "atom-one-dark"
   },

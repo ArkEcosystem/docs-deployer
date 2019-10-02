@@ -3,7 +3,7 @@ id: getting-started
 title: Getting Started
 ---
 
-<img src="https://deployer.ark.dev/img/landing/feature-3.svg" alt="Deploy" width="250" height="250" style="margin-left:unset"/>
+<img src="/assets/feature-3.svg" alt="Prepare" width="250" height="250" style="margin-left:unset" />
 
 Now that the pre-requirements and bridgechain configuration has been handled, it's time to deploy your new bridgechain. This will be broken down into the following stages:
 

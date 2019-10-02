@@ -3,7 +3,7 @@ id: getting-started
 title: Getting Started
 ---
 
-<img src="https://deployer.ark.dev/img/landing/feature-1.svg" alt="Prepare" width="250" height="250" style="margin-left:unset"/>
+<img src="/assets/feature-1.svg" alt="Prepare" width="250" height="250" style="margin-left:unset" />
 
 This documentation will guide you through each step of the ARK Deployer in detail. If you get stuck anywhere while creating your new bridgechain, this documentation will help you get back on track. A useful resource to check before creating your own blockchain using ARK technology would be the [ARK Whitepaper](https://whitepaper.ark.io), which covers Core specifications and capabilities, and our live documentation resource [docs.ark.io](https://docs.ark.io) which goes into more technical detail on ARK Core and peripherals.
 
